@@ -5,7 +5,7 @@ function pallindrome(str){
 		rev+=str[i]
 	}
 
-	if(){						//str==rev
+	if(str==rev){						
 		console.log("Number is Pallindrome ")
 	}else{
 		console.log("Not Pallindrome")
